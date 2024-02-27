@@ -26,7 +26,7 @@ ES6
 MIT
 
 ## Contact
-If users have questions  email:bardhoshieugen2@gmail.com.
+If users have questions  email:bardhoshieugen2@gmail.com
 ## Video and screenshot:
 <iframe src="https://drive.google.com/file/d/1o_9hxUHjurn0Afb2prReBD6oozBBLRvE/preview" width="640" height="480"></iframe>
 
