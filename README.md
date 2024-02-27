@@ -1,17 +1,44 @@
 # teamprofilegeneratoreugen
 
-This teamprofilegenerator generates team member information.
-By opening the terminal you can test it by typing: node run test (jest dependencies will test it ).
-You can add members by going in terminal and pressing : node index.js
+Teamprofilegeneratoreugen
 
-This project is done by Eugen.
+## Description
+It does generate team profiles.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
+## Installation
+you have to download dependencies and install them .
+## Usage
+if you run npm test run you will test the generator and if you type node index.js you will have to answer question and they will display on the html file.
 
-Video showing the funcionality of the website:
+## Features
+It generates team profile information
+## Contributing
+ES6 
 
+## License
+MIT
 
+## Contact
+If users have questions or want to reach out, provide contact information. This could include your email:bardhoshieugen2@gmail.com , social media profiles, or a link to a discussion forum.
+
+## Video and screenshot:
 <iframe src="https://drive.google.com/file/d/1o_9hxUHjurn0Afb2prReBD6oozBBLRvE/preview" width="640" height="480"></iframe>
 
 ![alt text](<127.0.0.1_5500_starter_output_team.html (4).png>)
+
+
+
+
+
+
+
+
 
 
